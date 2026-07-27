@@ -1,7 +1,8 @@
-# yuito
-##  在籍 
-* **ZEN大学**
-* **KADOKAWAドワンゴ情報工科学院**
+### yuito
+
+**🎓 在籍 (Affiliation)**
+* ZEN大学
+* KADOKAWAドワンゴ情報工科学院
 
 ---
 
