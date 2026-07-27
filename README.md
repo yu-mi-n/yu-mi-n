@@ -1,4 +1,4 @@
-<img src="README.png" width="100%" alt="GitHub Profile Header">
+<img src="IntroHeader.png" width="100%" alt="GitHub Profile Header">
 
 # yuito
 **🎓 在籍:** ZEN大学 / KADOKAWAドワンゴ情報工科学院
